@@ -1,4 +1,6 @@
-project_ml/
+```
+
+Classification_météo/
 
 │── data/
 │   ├── raw/              # Images originales
@@ -21,3 +23,4 @@ project_ml/
 │
 │── requirements.txt
 │── README.md
+```
